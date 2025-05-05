@@ -11,4 +11,4 @@ o.shiftwidth = 4
 o.smartindent = true
 o.tabstop = 4
 
-o.completeopt = { "menu", "menuone", "noselect", "noinsert" }
+-- o.completeopt = { "menu", "menuone", "noselect", "noinsert" }
